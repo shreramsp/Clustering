@@ -5,6 +5,7 @@ Clustering text documents using pretrained sentence transformer embeddings.
 ## Files
 
 - `Document_Clustering.ipynb` - Notebook (without execution)
+- `Document_Clustering_LLM_Embeddings` - Implementation notebook (shows "Invalid")
 - `full_execution_screenshot.png` - Complete run output
 - `visualizations/` - Result visualizations
 
