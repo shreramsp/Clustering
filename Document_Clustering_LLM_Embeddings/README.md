@@ -2,6 +2,10 @@
 
 Clustering text documents using pretrained sentence transformer embeddings.
 
+## Note
+
+Notebook shows "Invalid" on GitHub due to metadata issues. See screenshot for full output.
+
 ## Files
 
 - `Document_Clustering.ipynb` - Notebook (without execution)
@@ -16,6 +20,4 @@ Clustering text documents using pretrained sentence transformer embeddings.
 3. K-Means clustering on embeddings
 4. Evaluate with ARI (~0.5-0.7) and Silhouette Score
 
-## Note
 
-Notebook shows "Invalid" on GitHub due to metadata issues. See screenshot for full output.
